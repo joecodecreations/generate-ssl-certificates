@@ -7,9 +7,6 @@
 There are two ways to use this.
 
 1. Run as currently and use the prompts in the console
-
-or
-
 2. Change lines 9-14 with updated information and then set line for to TRUE
 
 
